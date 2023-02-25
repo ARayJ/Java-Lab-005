@@ -1,3 +1,10 @@
+/**
+ *
+ *@authorTrevorHartman
+ *@authorAaronJohnson
+ *
+ *@sinceVersion1.0
+ */
 import java.util.Random;
 
 public class Dice {

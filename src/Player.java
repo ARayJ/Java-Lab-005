@@ -1,3 +1,10 @@
+/**
+ *
+ *@authorTrevorHartman
+ *@authorAaronJohnson
+ *
+ *@sinceVersion1.0
+ */
 public class Player {
     private String name;
     private int score;
