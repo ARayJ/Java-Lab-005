@@ -41,7 +41,7 @@ public class Game {
             if (this.p1.getScore() < this.p2.getScore()) {
                 return String.format("%s won!", p2.getName());
             } else {
-                return String.format("%s and %s!", p1.getName(), p2.getName());
+                return String.format("%s and %s both won, its a draw!", p1.getName(), p2.getName());
             }
 
         }
